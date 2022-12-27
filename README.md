@@ -7,8 +7,9 @@ The code consists of CRUD RESTAPI endpoints for webcarousel and Admin authentica
 ## Activating python environment in linux
 ### `source venv/bin/activate`
 
-## Command to run server 
-### `python3 manage.py runserver 8001`
+## Install all dependencies
+### `pip install requirements.txt`
+## Command to run server  
 ### `python3 manage.py runserver 800O`
 
 ## Command for migrations 
