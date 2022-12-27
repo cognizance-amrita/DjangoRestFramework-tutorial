@@ -1,0 +1,4 @@
+/venv/
+apiapp/__pycache__
+apiview/__pycache__
+apiapp/migrations/
