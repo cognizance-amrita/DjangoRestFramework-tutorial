@@ -1,4 +1,5 @@
 # Django-API-Base-Code
+The code consists of CRUD RESTAPI endpoints for webcarousel and Admin authentication
 
 ## Command to create environment
 ### `python -m venv ./venv`
