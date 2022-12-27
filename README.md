@@ -1,5 +1,5 @@
 # Django-API-Base-Code
-The code consists of CRUD RESTAPI endpoints for webcarousel and Admin authentication
+The code consists of CRUD RESTAPI endpoints for webcarousel and Admin authentication. This repository also consists of GH Actions for Testing Django. 
 
 ## Command to create environment
 ### `python -m venv ./venv`
